@@ -1,0 +1,4 @@
+Strategexe-Theme
+================
+
+Strategexe Theme
